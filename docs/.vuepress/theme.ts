@@ -19,7 +19,7 @@ export default hopeTheme({
   sidebar,
 
   // Підставити рік та Ваше імʼя
-  footer: "ECL 2.0 Licensed | Copyright © 2024 Mariia Samoilenko ",
+  footer: "ECL 2.0 Licensed | Copyright © 2024 Roman Hordiienko ",
 
   displayFooter: true,
 
